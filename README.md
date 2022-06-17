@@ -4,7 +4,7 @@
 Web scraping is the process of using bots to extract content and data from a website. Unlike screen scraping, which only copies pixels displayed onscreen, 
 web scraping extracts underlying HTML code and, with it, data stored in a database. The scraper can then replicate entire website content elsewhere.
 
-## Dats Description :
+## Data Description :
 This table includes countries and their populations upto 2020. Information of changing population yearly and net change in population and migration of people. 
 Also includes contries land area in the world, fertility rate, median age. People live in urban area and countries population's world share.
 
@@ -27,9 +27,9 @@ Also includes contries land area in the world, fertility rate, median age. Peopl
 | 11 | World Share  | Country Population share at world level   |     
 
 Use libraries :
-Request    # making HTTP requests to a specified URL
-BeautifulSoup  #  operating with HTML 
-Pandas  # analysis
-NumPy   # numerical operations
-Matplotlib   #  for visualisation
-Seaborn    # for visualisation
+* Request    # making HTTP requests to a specified URL
+* BeautifulSoup  #  operating with HTML 
+* Pandas  # analysis
+* NumPy   # numerical operations
+* Matplotlib   #  for visualisation
+* Seaborn    # for visualisation
